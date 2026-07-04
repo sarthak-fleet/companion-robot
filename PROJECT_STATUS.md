@@ -1,5 +1,13 @@
 # Companion Robot — Project Status
-Last updated: 2026-06-28
+
+> **DELAYED 2026-07-04 — parked, not archived.**
+>
+> Hardware was never ordered and no code shipped. The thesis (Pace-brained home
+> companion robot) remains interesting but is not the next priority. Reopen
+> trigger: a deliberate decision to spend on hardware and commit to the v1
+> build phases. Until then, treat this repo as dormant reference material.
+
+Last updated: 2026-07-04
 
 ## Why / What
 
